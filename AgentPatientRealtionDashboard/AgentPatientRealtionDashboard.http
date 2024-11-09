@@ -1,0 +1,6 @@
+@AgentPatientRealtionDashboard_HostAddress = http://localhost:5047
+
+GET {{AgentPatientRealtionDashboard_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
